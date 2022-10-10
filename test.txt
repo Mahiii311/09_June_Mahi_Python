@@ -1,0 +1,7 @@
+How do you perform pattern matching in Python? Explain
+What is lambda function in python? What we call a function which is incomplete version of a function?
+How Many Basic Types Of Functions Are Available In Python?
+How can you pick a random item from a list or tuple?
+How can you pick a random item from a range?
+How can you get a random number in python?
+How will you set the starting value in generating random numbers?
